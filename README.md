@@ -145,38 +145,30 @@ id,username,password,email,fullname,status,createdAt,role
 1,admin,hashpass,admin@example.com,Administrator,onl,2025-09-17 10:00:00,admin
 2,user1,hashpass,user1@example.com,Nguyen Van A,off,2025-09-17 10:10:00,user
 Trong đó:
-
-username → tên đăng nhập
-
-password → mật khẩu (đã băm SHA-256)
-
-status → trạng thái onl/off
-
-role → phân quyền admin hoặc user
-
-🔹 Bước 3: Biên dịch source code
+```
+### 🔹 Bước 3:Biên dịch source
 Mở terminal tại thư mục dự án, gõ lệnh:
-
+```
 bash
 Sao chép mã
-javac hi/*.java
+javac BTL/*.java
 👉 Lệnh trên sẽ biên dịch toàn bộ source code trong package hi.
+```
+### 🔹 Bước 4:Chạy hệ thống
+```
+    Chạy ServerMain
+```
+```
+    Chạy ClientApp
+```
+### 🔹 Bước 5:Kiểm Thử
+- Đăng ký: tạo tài khoản mới → tự động ghi vào users.csv.
 
-🔹 Bước 4: Khởi động hệ thống
-Chạy Server
+- Đăng nhập: kiểm tra tài khoản → trạng thái chuyển off → onl.
 
-Chạy Client
+- Đăng xuất: hệ thống cập nhật lại trạng thái onl → off.
 
-
-🔹 Bước 5: Kiểm thử
-Đăng ký: tạo tài khoản mới → tự động ghi vào users.csv.
-
-Đăng nhập: kiểm tra tài khoản → trạng thái chuyển off → onl.
-
-Đăng xuất: hệ thống cập nhật lại trạng thái onl → off.
-
-Admin: có thể giám sát danh sách user và trạng thái hoạt động.
-
+- Admin: có thể giám sát danh sách user và trạng thái hoạt động.
 
 ## 📞5. Liên hệ
 Nếu bạn có bất kỳ thắc mắc hoặc cần hỗ trợ về dự án **Hệ Thống Đăng Nhập Client-Server**, vui lòng liên hệ:  
@@ -184,5 +176,6 @@ Nếu bạn có bất kỳ thắc mắc hoặc cần hỗ trợ về dự án **
 - 👨‍🎓 **Sinh viên thực hiện**: Nguyễn Hoài Nam 
 - 🎓 **Khoa**: Công nghệ Thông tin – Đại học Đại Nam  
 - 📧 **Email**: Hoainam2655@gmail.com
+
 
 
