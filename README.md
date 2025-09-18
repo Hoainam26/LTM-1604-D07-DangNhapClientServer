@@ -174,8 +174,9 @@ javac BTL/*.java
 Nếu bạn có bất kỳ thắc mắc hoặc cần hỗ trợ về dự án **Hệ Thống Đăng Nhập Client-Server**, vui lòng liên hệ:  
 
 - 👨‍🎓 **Sinh viên thực hiện**: Nguyễn Hoài Nam 
-- 🎓 **Khoa**: Công nghệ Thông tin – Đại học Đại Nam  
+- 🎓 **Khoa**: Công nghệ thông tin – Đại học Đại Nam  
 - 📧 **Email**: Hoainam2655@gmail.com
+
 
 
 
