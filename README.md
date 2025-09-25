@@ -67,7 +67,7 @@ Trong kiến trúc này:
 
 ## 🖼️ 3. Hình ảnh chức năng
 <p align="center">
-  <img src="docs/ql.jpg" alt="Ảnh 1" width="600"/>
+  <img src="docs/sv.jpg" alt="Ảnh 1" width="600"/>
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ Trong kiến trúc này:
 </p>
 
 <p align="center">
-  <img src="docs/dk.jpg" alt="Ảnh 2" width="600"/>
+  <img src="docs/dk1.jpg" alt="Ảnh 2" width="600"/>
 </p>
 <p align="center">
   <em> Hình 2: Giao diện Đăng ký</em>
@@ -91,21 +91,21 @@ Trong kiến trúc này:
 </p>
 
 <p align="center">
-    <img src="docs/client.jpg" alt="Ảnh 4" width="600"/>
+    <img src="docs/ht.jpg" alt="Ảnh 4" width="600"/>
 </p>
 <p align="center">
   <em> Hình 4: Giao diện chính người dùng</em>
 </p>
 
 <p align="center">
-  <img src="docs/mk.jpg" alt="Ảnh 5" width="600"/>
+  <img src="docs/mk1.jpg" alt="Ảnh 5" width="600"/>
 </p>
 <p align="center">
   <em> Hình 5: Giao diện đổi mật khẩu</em>
 </p>
 
 <p align="center">
-  <img src="docs/capnhattt.jpg" alt="Ảnh 6" width="600"/>
+  <img src="docs/cntt.jpg" alt="Ảnh 6" width="600"/>
 </p>
 <p align="center">
   <em> Hình 6: Giao diện thay đổi thông tin cá nhân</em>
@@ -176,6 +176,7 @@ Nếu bạn có bất kỳ thắc mắc hoặc cần hỗ trợ về dự án **
 - 👨‍🎓 **Sinh viên thực hiện**: Nguyễn Hoài Nam 
 - 🎓 **Khoa**: Công nghệ thông tin – Trường Đại học Đại Nam  
 - 📧 **Email**: Hoainam2655@gmail.com
+
 
 
 
