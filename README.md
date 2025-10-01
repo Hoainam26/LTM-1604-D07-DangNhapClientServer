@@ -41,7 +41,7 @@ Trong kiến trúc này:
 
 ## 🔧 2. Công nghệ sử dụng
 
-### 🌐 Ngôn Ngữ Lập Trình
+ ### 🌐 Ngôn Ngữ Lập Trình
 - **Java SE 17+**: Ngôn ngữ lập trình chính  
 - Hỗ trợ lập trình hướng đối tượng, đa luồng, lập trình socket  
 
@@ -67,7 +67,7 @@ Trong kiến trúc này:
 
 ## 🖼️ 3. Hình ảnh chức năng
 <p align="center">
-  <img src="docs/sv.jpg" alt="Ảnh 1" width="600"/>
+  <img src="docs/admin.jpg" alt="Ảnh 1" width="600"/>
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ Trong kiến trúc này:
 </p>
 
 <p align="center">
-  <img src="docs/dk1.jpg" alt="Ảnh 2" width="600"/>
+  <img src="docs/dk.jpg" alt="Ảnh 2" width="600"/>
 </p>
 <p align="center">
   <em> Hình 2: Giao diện Đăng ký</em>
@@ -91,24 +91,36 @@ Trong kiến trúc này:
 </p>
 
 <p align="center">
-    <img src="docs/ht.jpg" alt="Ảnh 4" width="600"/>
+    <img src="docs/user.jpg" alt="Ảnh 4" width="600"/>
 </p>
 <p align="center">
   <em> Hình 4: Giao diện chính người dùng</em>
 </p>
 
 <p align="center">
-  <img src="docs/mk1.jpg" alt="Ảnh 5" width="600"/>
+  <img src="docs/mk.jpg" alt="Ảnh 5" width="600"/>
 </p>
 <p align="center">
   <em> Hình 5: Giao diện đổi mật khẩu</em>
 </p>
 
 <p align="center">
-  <img src="docs/cntt.jpg" alt="Ảnh 6" width="600"/>
+  <img src="docs/tt.jpg" alt="Ảnh 6" width="600"/>
 </p>
 <p align="center">
   <em> Hình 6: Giao diện thay đổi thông tin cá nhân</em>
+</p>
+<p align="center">
+  <img src="docs/nhatki.jpg" alt="Ảnh 6" width="600"/>
+</p>
+<p align="center">
+  <em> Hình 7: Giao diện danh sách truy cập</em>
+</p>
+<p align="center">
+  <img src="docs/bieudo.jpg" alt="Ảnh 6" width="600"/>
+</p>
+<p align="center">
+  <em> Hình 8: Giao diện biểu đồ </em>
 </p>
 
 
@@ -159,7 +171,7 @@ javac BTL/*.java
     Chạy ServerMain
 ```
 ```
-    Chạy ClientApp
+    Chạy ClientAppMain
 ```
 ### 🔹 Bước 5:Kiểm Thử
 - Đăng ký: tạo tài khoản mới → tự động ghi vào users.csv.
@@ -176,6 +188,7 @@ Nếu bạn có bất kỳ thắc mắc hoặc cần hỗ trợ về dự án **
 - 👨‍🎓 **Sinh viên thực hiện**: Nguyễn Hoài Nam 
 - 🎓 **Khoa**: Công nghệ thông tin – Trường Đại học Đại Nam  
 - 📧 **Email**: Hoainam2655@gmail.com
+
 
 
 
